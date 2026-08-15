@@ -1,37 +1,63 @@
 <div align="center">
 
 <a href="https://github.com/sibnarayansamanta7-boop">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sibnarayan+Samanta+%F0%9F%91%8B;B.Tech+CSE+Student+%F0%9F%8E%93;Aspiring+Software+Development+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Java+%7C+DSA+%7C+React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sibnarayan+Samanta+%F0%9F%91%8B;Java+%26+DSA+Learner+%E2%98%95;C%2B%2B+Developer+%E2%9A%A1;AI+Specialist+%F0%9F%A4%96;Full+Stack+Web+Developer+%F0%9F%8C%90;Software+Developer+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%" alt="Animated header"/>
+<br>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=sibnarayansamanta7-boop&label=Profile%20Views&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/sibnarayansamanta7-boop?label=Followers&style=for-the-badge&logo=github" alt="Followers"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%" alt="Animated Header"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 Hi, I'm Sibnarayan Samanta
 
-<table>
-<tr>
-<td width="55%">
+🎓 **3rd Year B.Tech Computer Science & Engineering Student**
 
-🎓 **3rd-year B.Tech Computer Science & Engineering student**
+💻 Aspiring **Software Development Engineer**
 
-💻 Currently focused on **Java, DSA and Software Engineering**
+☕ Learning **Java + Data Structures & Algorithms**
 
-🌐 Building full-stack applications with **React, Node.js, Express.js and MongoDB**
+⚡ Exploring **C++ & Problem Solving**
 
-🤖 Exploring **AI/ML and Cybersecurity**
+🤖 Building knowledge in **Artificial Intelligence & Machine Learning**
 
-🚀 Interested in **hackathons, open source and real-world projects**
+🌐 Developing **Full-Stack Web Applications**
 
-🎯 Goal: become a strong **Software Development Engineer**
+🚀 Passionate about learning, building and solving real-world problems.
+
+---
+
+# 🎯 My Learning Journey
+
+```text
+                         👨‍💻 SIBNARAYAN
+                              │
+          ┌───────────────────┼───────────────────┐
+          │                   │                   │
+          ▼                   ▼                   ▼
+     ☕ JAVA + DSA        ⚡ C++             🤖 AI
+          │                   │                   │
+          └───────────────────┼───────────────────┘
+                              │
+                              ▼
+                    💻 SOFTWARE DEVELOPMENT
+                              │
+                              ▼
+                       🌐 WEB DEVELOPMENT
+                              │
+                    ┌─────────┴─────────┐
+                    ▼                   ▼
+               🎨 FRONTEND          🖥️ BACKEND
+                    │                   │
+                    └─────────┬─────────┘
+                              ▼
+                         🚀 FULL STACK
+                              │
+                              ▼
+                           🎯 SDE
 
 ⚡ *Code → Learn → Build → Improve → Repeat*
 
