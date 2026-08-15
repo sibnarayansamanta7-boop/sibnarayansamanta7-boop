@@ -1,0 +1,56 @@
+<svg width="760" height="440" viewBox="0 0 760 440" xmlns="http://www.w3.org/2000/svg" font-family="Menlo, Consolas, 'Courier New', monospace">
+  <defs>
+    <style>
+      .win { fill: #0d1117; stroke: #21262d; stroke-width: 1; }
+      .bar { fill: #161b22; }
+      .dot { r: 6; }
+      .path { fill: #7d8590; font-size: 12px; }
+      .label { fill: #7ee787; font-size: 13px; }
+      .key { fill: #79c0ff; font-size: 13px; }
+      .val { fill: #c9d1d9; font-size: 13px; }
+      .dim { fill: #6e7681; font-size: 13px; }
+      .section { fill: #ff7b72; font-size: 13px; font-weight: bold; }
+      .live { fill: #7ee787; font-size: 11px; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="760" height="440" rx="10" class="win"/>
+  <rect x="0" y="0" width="760" height="34" rx="10" class="bar"/>
+  <rect x="0" y="24" width="760" height="10" class="bar"/>
+
+  <circle cx="22" cy="17" class="dot" fill="#ff5f56"/>
+  <circle cx="42" cy="17" class="dot" fill="#ffbd2e"/>
+  <circle cx="62" cy="17" class="dot" fill="#27c93f"/>
+
+  <text x="200" y="21" class="path" text-anchor="middle">sibnarayansamanta7-boop@github: ~/profile.sh --live</text>
+
+  <!-- body -->
+  <g transform="translate(30,64)">
+    <text x="0" y="0" class="section">SYSTEM.INFO</text>
+    <rect x="0" y="10" width="700" height="1" fill="#21262d"/>
+
+    <text x="0" y="38" class="dim">$ whoami</text>
+    <text x="0" y="60" class="key">Name</text><text x="180" y="60" class="val">Sibnarayan Samanta</text>
+    <text x="0" y="82" class="key">Role</text><text x="180" y="82" class="val">B.Tech CSE Student · Aspiring SDE</text>
+    <text x="0" y="104" class="key">Focus</text><text x="180" y="104" class="val">Full-Stack Development</text>
+    <text x="0" y="126" class="key">Education</text><text x="180" y="126" class="val">B.Tech CSE — 3rd Year</text>
+    <text x="0" y="148" class="key">Status</text><text x="180" y="148" class="val">Strengthening Java, DSA &amp; CS fundamentals</text>
+    <text x="0" y="170" class="key">Toolchain</text><text x="180" y="170" class="val">VS Code, Git, IntelliJ IDEA, Android Studio</text>
+
+    <rect x="0" y="188" width="700" height="1" fill="#21262d"/>
+
+    <text x="0" y="216" class="dim">$ stack --list</text>
+    <text x="0" y="238" class="key">Core.Lang</text><text x="180" y="238" class="val">Java, C, Python, JavaScript</text>
+    <text x="0" y="260" class="key">Core.Frontend</text><text x="180" y="260" class="val">React, HTML5, CSS3, Vite</text>
+    <text x="0" y="282" class="key">Core.Backend</text><text x="180" y="282" class="val">Node.js, Express.js</text>
+    <text x="0" y="304" class="key">Core.Database</text><text x="180" y="304" class="val">MongoDB</text>
+
+    <rect x="0" y="322" width="700" height="1" fill="#21262d"/>
+
+    <text x="0" y="350" class="dim">$ cat contact.info</text>
+    <text x="0" y="372" class="key">Grid.GitHub</text><text x="180" y="372" class="val">sibnarayansamanta7-boop</text>
+    <text x="0" y="394" class="key">Grid.LinkedIn</text><text x="180" y="394" class="dim">coming soon</text>
+
+    <text x="0" y="416" class="live">● More about me &amp; projects below — README.md</text>
+  </g>
+</svg>
