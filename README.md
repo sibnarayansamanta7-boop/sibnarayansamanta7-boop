@@ -1,5 +1,4 @@
 
-<div align="center"> <img src="https://raw.githubusercontent.com/sibnarayansamanta7-boop/sibnarayansamanta7-boop/main/terminal-card.svg" alt="Terminal Info Card" width="700"/> </div>
 
 <div align="center">
 
