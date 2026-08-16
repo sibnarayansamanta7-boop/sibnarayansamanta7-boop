@@ -25,9 +25,9 @@
 
 💻 Currently focused on **Java, DSA and Software Engineering**
 
-🌐 Building full-stack applications with **React, Node.js, Express.js, HTML, CSS, JAVA SCRIPT, and MongoDB**
+🌐 Building full-stack applications with **React, Node.js, Express.js and MongoDB**
 
-🤖 Exploring **AI specialist**
+🤖 Exploring **AI/ML and Cybersecurity**
 
 🚀 Interested in **hackathons, open source and real-world projects**
 
@@ -123,6 +123,7 @@ An Android quiz application featuring multiple-choice questions, scoring and res
 
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=sibnarayansamanta7-boop&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -187,3 +188,55 @@ An Android quiz application featuring multiple-choice questions, scoring and res
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Animated footer"/>
 
 </div>
+
+
+# 📚 MY ROADMAP
+
+```text
+                     👨‍💻 SIBNARAYAN
+                           │
+                           ▼
+                    ☕ JAVA FUNDAMENTALS
+                           │
+                           ▼
+                       🧱 OOP
+                           │
+                           ▼
+                      🧠 DSA
+                           │
+                    ┌──────┴──────┐
+                    │             │
+                    ▼             ▼
+                 ☕ JAVA         ⚡ C++
+                    │             │
+                    └──────┬──────┘
+                           ▼
+                    💻 CORE CS
+                           │
+              ┌────────────┼────────────┐
+              ▼            ▼            ▼
+             OS           DBMS          CN
+              │            │            │
+              └────────────┼────────────┘
+                           ▼
+                  🌐 WEB DEVELOPMENT
+                           │
+                    ┌──────┴──────┐
+                    ▼             ▼
+                🎨 FRONTEND    🖥️ BACKEND
+                    │             │
+                    └──────┬──────┘
+                           ▼
+                    🚀 FULL STACK
+                           │
+                           ▼
+                     🤖 AI / ML
+                           │
+                           ▼
+                    📐 SYSTEM DESIGN
+                           │
+                           ▼
+                    🎯 SDE INTERVIEWS
+                           │
+                           ▼
+                    🚀 SOFTWARE ENGINEER
