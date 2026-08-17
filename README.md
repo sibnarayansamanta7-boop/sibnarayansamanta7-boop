@@ -148,7 +148,7 @@ A cybersecurity and AI project exploring machine-learning-based malware classifi
 <div align="center">
 
 🎯 **Quickdraw**
-
+🤠 YOLO
 </div>
 
 ---
