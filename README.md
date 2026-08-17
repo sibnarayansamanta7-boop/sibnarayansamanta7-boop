@@ -1,3 +1,5 @@
+
+# Hi, I'm Sibnarayan Samanta 👋
 <div align="center">
 <img src="./sibnarayan-dot-sketch-animation.gif"
      width="240"
@@ -15,150 +17,157 @@
 </p>
 
 </div>
+<div align="center">
 
----
+
+
+
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="55%">
+I'm a **3rd-year B.Tech Computer Science & Engineering student** at **Guru Nanak Institute of Technology, Kolkata**, focused on building practical software and developing strong engineering fundamentals.
 
-🎓 **3rd-year B.Tech Computer Science & Engineering student**
+* 💻 language **Java & C++**
+* 🌐 Developing full-stack applications using **React, Node.js, Express.js, JavaScript and MongoDB**
+* 🔐 Working with authentication, REST APIs and database integration
+* 🤖 Exploring **AI prompting**
+* 🚀 Interested in building real-world software and participating in hackathons
+* 🎯 Preparing for **Software Development Engineer opportunities**
 
-💻 Currently focused on **Java, DSA and Software Engineering**
-
-🌐 Building full-stack applications with **React, Node.js, Express.js and MongoDB**
-
-🤖 Exploring **AI/ML and Cybersecurity**
-
-🚀 Interested in **hackathons, open source and real-world projects**
-
-🎯 Goal: become a strong **Software Development Engineer**
-
-⚡ *Code → Learn → Build → Improve → Repeat*
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding animation"/>
-
-</td>
-</tr>
-</table>
+> **I learn by building, solving problems and continuously improving my projects.**
 
 ---
 
-## 🛠️ Technologies & Tools
-
-<div align="center">
+## 🛠️ Tech Stack
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css" alt="Languages"/>
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css" alt="Languages"/>
+</p>
 
 ### Frontend
 
+<p>
 <img src="https://skillicons.dev/icons?i=react,vite" alt="Frontend"/>
+</p>
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and database"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and Database"/>
+</p>
 
-### Tools
+### Tools & Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio" alt="Tools"/>
-
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio" alt="Development Tools"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Recall — *Where Did I See It?*
+### 🧠 Recall — Knowledge Rediscovery Platform
 
-A knowledge rediscovery platform that helps users save useful information and retrieve it later.
+**Where Did I See It?**
 
-- 🔐 User authentication
-- 💾 Save and organize information
-- 🔗 Secure item-specific share codes
-- 📱 Retrieve saved items from another device
-- 📷 QR-based retrieval
-- 🗄️ Persistent backend storage
-- ⏳ Expiration and revocation planned
+A full-stack knowledge rediscovery platform designed to help users save useful information and retrieve it later.
 
-**Stack:** React • Node.js • Express.js • MongoDB • JWT
+**Key Features**
 
-### 🤖 AI Malware Detection
+* 🔐 User authentication
+* 💾 Save and manage information
+* 🔗 Secure item-specific sharing
+* 🔑 Share-code based retrieval
+* 📱 Access saved information from another device
+* 📷 QR-based retrieval workflow
+* 🗄️ Persistent MongoDB storage
+* ⏳ Expiration and revocation planned
 
-A cybersecurity/AI project exploring machine-learning-based malware classification, adversarial mutations and defensive techniques.
+**Tech Stack:** React • Node.js • Express.js • MongoDB • JWT
 
-**Focus:** Machine Learning • Malware Detection • Adversarial Testing • Cybersecurity
+🔗 **[View Recall on GitHub](https://github.com/sibnarayansamanta7-boop/recall-app)**
+
+---
 
 ### 🛒 E-Commerce Application
 
-A full-stack application exploring product management, authentication, REST APIs, database integration and modern frontend development.
+A full-stack web application built to practice real-world application development, including frontend interfaces, authentication, REST APIs and database integration.
 
-**Stack:** React • Node.js • Express.js • MongoDB
+**Tech Stack:** React • Node.js • Express.js • MongoDB
 
-### 🧠 Brain IQ
-
-An Android quiz application featuring multiple-choice questions, scoring and restart functionality.
-
-**Stack:** Java • Android Studio
+🔗 **[View Project](https://github.com/sibnarayansamanta7-boop/ecommerce-app)**
 
 ---
 
-## 📊 GitHub Analytics
+### 🧠 Brain IQ — Android Quiz Application
+
+A Java-based Android quiz application featuring multiple-choice questions, score calculation and restart functionality.
+
+**Tech Stack:** Java • Android Studio
+
+🔗 **[View Project](https://github.com/sibnarayansamanta7-boop/Brain_Iq)**
+
+---
+
+### 🛡️ AI Malware Detection
+
+A cybersecurity and AI project exploring machine-learning-based malware classification, adversarial testing and defensive techniques.
+
+**Focus:** AI/ML • Malware Detection • Adversarial Testing • Cybersecurity
+
+> Project currently under development.
+
+---
+
+## 🐍 Contribution Activity
 
 <div align="center">
 
+<img src="./output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sibnarayansamanta7-boop&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Contribution Streak"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=sibnarayansamanta7-boop&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sibnarayansamanta7-boop&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievement
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sibnarayansamanta7-boop&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
+🎯 **Quickdraw**
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📚 Currently Learning
 
-<div align="center">
-
-<img src="./output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sibnarayansamanta7-boop&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
-
-</div>
+* ☕ Advanced Java & Object-Oriented Programming
+* 🌐 Full-Stack Web Development
+* ⚙️ Backend API Development
+* 🗄️ Database Design & Integration
+* 🔐 Authentication & Application Security
+* 🧠 AI/ML fundamentals
+* 🏗️ Software Engineering Practices
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Career Goal
 
-<div align="center">
-
-**Java & DSA** • **Core CS** • **Full-Stack Development** • **AI/ML** • **Cybersecurity** • **SDE Preparation**
-
-</div>
+I'm working toward becoming a **Software Development Engineer** by building production-oriented projects, improving my engineering skills and gaining experience with modern development technologies.
 
 ---
 
@@ -170,14 +179,12 @@ An Android quiz application featuring multiple-choice questions, scoring and res
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<!-- Replace with your actual LinkedIn URL -->
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/sibnarayan-samanta-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<!-- Replace with your actual Instagram URL -->
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="mailto:sibnarayansamanta7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -186,60 +193,7 @@ An Android quiz application featuring multiple-choice questions, scoring and res
 
 <div align="center">
 
-### ⚡ Code. Learn. Build. Repeat. 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Animated footer"/>
+### 🚀 Build. Learn. Improve.
 
 </div>
 
-
-# 📚 MY ROADMAP
-
-```text
-                     👨‍💻 SIBNARAYAN
-                           │
-                           ▼
-                    ☕ JAVA FUNDAMENTALS
-                           │
-                           ▼
-                       🧱 OOP
-                           │
-                           ▼
-                      🧠 DSA
-                           │
-                    ┌──────┴──────┐
-                    │             │
-                    ▼             ▼
-                 ☕ JAVA         ⚡ C++
-                    │             │
-                    └──────┬──────┘
-                           ▼
-                    💻 CORE CS
-                           │
-              ┌────────────┼────────────┐
-              ▼            ▼            ▼
-             OS           DBMS          CN
-              │            │            │
-              └────────────┼────────────┘
-                           ▼
-                  🌐 WEB DEVELOPMENT
-                           │
-                    ┌──────┴──────┐
-                    ▼             ▼
-                🎨 FRONTEND    🖥️ BACKEND
-                    │             │
-                    └──────┬──────┘
-                           ▼
-                    🚀 FULL STACK
-                           │
-                           ▼
-                     🤖 AI / ML
-                           │
-                           ▼
-                    📐 SYSTEM DESIGN
-                           │
-                           ▼
-                    🎯 SDE INTERVIEWS
-                           │
-                           ▼
-                    🚀 SOFTWARE ENGINEER
