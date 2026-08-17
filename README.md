@@ -1,4 +1,7 @@
 <div align="center">
+<img src="./sibnarayan-dot-sketch-animation.gif"
+     width="240"
+     alt="Sibnarayan Samanta animated dot sketch"/>
 
 <a href="https://github.com/sibnarayansamanta7-boop">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sibnarayan+Samanta+%F0%9F%91%8B;B.Tech+CSE+Student+%F0%9F%8E%93;Aspiring+Software+Development+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Java+%7C+DSA+%7C+React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG"/>
